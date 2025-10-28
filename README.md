@@ -1,2 +1,2 @@
-# RANTIS-Rule-based-Anti-ransomware-Neural-Threat-Intelligence-System
+# HORUS
 Mini Project
