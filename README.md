@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GNU-green)
 
 HORUS is a Windows ransomware canary system that detects threats using the Event Log, identifies the malicious **Process ID (PID)**, and executes immediate, automated mitigation.
 
